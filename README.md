@@ -1,7 +1,6 @@
-# Superhero Tallest Finder
+# Tests_superheroapi
 
-Тестовое задание. Нужна была функция, которая по полу героя и по тому,
-есть ли у него работа, находит самого высокого героя. Данные берутся из
+Данные берутся из
 [superhero-api](https://akabab.github.io/superhero-api/).
 
 ## Файлы
